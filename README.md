@@ -2,7 +2,14 @@
 
 - I`m Backend Dev And I am a happy programmer 😄
 - I`m OpenSource :D
-     
+
+# My Favourite Language:
+- Python (For Backend)
+- assembly
+- C#
+- And Ruby
+- Finished
+
 ```txt     
      _                      _______                      _
   _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_
